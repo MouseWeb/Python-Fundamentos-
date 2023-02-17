@@ -12,7 +12,7 @@ while condicao:
 
     if nome == 'sair':
         break
-d
+
 print('Acabou')
 
 
